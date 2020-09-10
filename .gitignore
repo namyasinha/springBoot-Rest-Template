@@ -1,6 +1,8 @@
 .metadata
-covid_statistics
+
 io.namya.profiles
 producer-kafka
 spring-config
 spring-config-server
+todostatusservice
+todotaskservice
